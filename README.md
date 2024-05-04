@@ -1,4 +1,4 @@
-# AERELLHACK PLANT VS ZOMBIE (AHPVSZ)
+# HACK PLANT VS ZOMBIE 
 
 This is a program created to manipulate the memory of the Plant Vs Zombie game, you could say it's a cheat trainer.
 
@@ -21,4 +21,4 @@ Note: This program was created for learning.
 - Visual Studio Community
 - C++
 
-<p align="center"><i>Fern Aerell &copy;2023/2024</i></p>
+<p align="center"><i>Phumemory &copy;2023/2024</i></p>
