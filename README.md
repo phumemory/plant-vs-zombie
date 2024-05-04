@@ -10,7 +10,6 @@ Note: This program was created for learning.
 - Zombie One Hit
 
 ## How To Use
-- Open file AHPVSZ.exe
 - Open Plants Vs Zombies.exe
 - Please press the hotkey according to the cheat you want to use.
 
