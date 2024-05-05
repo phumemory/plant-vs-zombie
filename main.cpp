@@ -91,7 +91,7 @@ int main(int agrc, const char* argv) {
 			}
 		}
 		std::cout << "\nAbout : " << std::endl;
-		std::cout << "Create By Pimsickgirl" << std::endl;
+		std::cout << "Create By Phumemory" << std::endl;
 		std::cout << "Discord discord.gg/t5WBnbfZS2" << std::endl;
 		std::cout << "Version " << PROGRAM_VERSION << std::endl;
 		if (gameIsRunning)
